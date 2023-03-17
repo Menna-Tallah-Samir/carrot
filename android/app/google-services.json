@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "470172968904",
+    "project_id": "carrotauth",
+    "storage_bucket": "carrotauth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470172968904:android:74052fe539c57f18c502fd",
+        "android_client_info": {
+          "package_name": "com.example.carrot_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470172968904-e0jj22ma6upkl4el2mgn027gccojlbm4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCki-RBUo2CLunq7gdXygTXBWY8867owhY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "470172968904-e0jj22ma6upkl4el2mgn027gccojlbm4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

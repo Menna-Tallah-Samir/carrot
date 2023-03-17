@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">470172968904-e0jj22ma6upkl4el2mgn027gccojlbm4.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">470172968904</string>
+    <string name="google_api_key" translatable="false">AIzaSyCki-RBUo2CLunq7gdXygTXBWY8867owhY</string>
+    <string name="google_app_id" translatable="false">1:470172968904:android:74052fe539c57f18c502fd</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCki-RBUo2CLunq7gdXygTXBWY8867owhY</string>
+    <string name="google_storage_bucket" translatable="false">carrotauth.appspot.com</string>
+    <string name="project_id" translatable="false">carrotauth</string>
+</resources>
